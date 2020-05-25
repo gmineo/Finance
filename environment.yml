@@ -22,7 +22,6 @@ dependencies:
   - nose
   - mock
   - coverage
-  - wget
   - pip
   - pip: 
     - alpha-vantage

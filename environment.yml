@@ -30,4 +30,4 @@ dependencies:
     - finam-export
     - urltools
     - click-datetime
-    - talib
+    - ta-lib

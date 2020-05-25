@@ -22,6 +22,7 @@ dependencies:
   - nose
   - mock
   - coverage
+  - wget
   - pip
   - pip: 
     - alpha-vantage
@@ -30,5 +31,3 @@ dependencies:
     - finam-export
     - urltools
     - click-datetime
-    - wget
-    

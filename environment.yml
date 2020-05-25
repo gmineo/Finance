@@ -1,0 +1,32 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - quandl
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - scipy
+  - ipython
+  - jupyter
+  - lxml
+  - requests
+  - enum34
+  - click
+  - nose
+  - mock
+  - coverage
+  - pip
+  - pip: 
+    - alpha-vantage
+    - statsmodels
+    - pandas-datareader
+    - finam-export
+    - urltools
+    - click-datetime

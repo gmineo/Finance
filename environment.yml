@@ -30,3 +30,5 @@ dependencies:
     - finam-export
     - urltools
     - click-datetime
+    - wget
+    

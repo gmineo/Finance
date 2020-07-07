@@ -1,2 +1,2 @@
 # Finance
-Machine learning for finance
+Machine learning for finance in python
